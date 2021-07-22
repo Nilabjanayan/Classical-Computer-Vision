@@ -1,1 +1,1 @@
-- Run the notebook using: `jupyter notebook ./code_dir/proj3.ipynb
+- Run the notebook using: `jupyter notebook ./code_dir/proj2.ipynb
